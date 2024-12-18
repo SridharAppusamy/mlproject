@@ -3,4 +3,5 @@ pandas
 numpy
 catboost
 xgboost
+flask
 #-e .
